@@ -152,7 +152,7 @@ The system uses a normalized MySQL database with tables for:
 ## 📸 Screenshots
 
 ### Login Page
-![Login Page](screenshots/login.png)
+![Login Page](screenshots/login.png) 
 *Secure role-based authentication system*
 
 ### Admin Dashboard
@@ -166,14 +166,6 @@ The system uses a normalized MySQL database with tables for:
 ### Supervisor Dashboard  
 ![Supervisor Dashboard](screenshots/supervisor-dashboard.png)
 *Project monitoring and evaluation tools for supervisors*
-
-### MRG Evaluator Interface
-![MRG Interface](screenshots/mrg-interface.png)
-*Major Research Group evaluation interface*
-
-### DPEG Evaluator Interface
-![DPEG Interface](screenshots/dpeg-interface.png)
-*Department Group evaluation dashboard*
 
 ### Project Evaluation Form
 ![Evaluation Form](screenshots/evaluation-form.png)
